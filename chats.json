@@ -1,0 +1,22 @@
+{
+  "8357a44d-450c-427d-9c80-39350a52e480": {
+    "title": "New chat",
+    "messages": [],
+    "updated": "2026-10-18T21:08:52"
+  },
+  "f672eb5c-3ee4-4265-b41d-57958ae2fd4a": {
+    "title": "hi",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hi"
+      },
+      {
+        "role": "assistant",
+        "content": "I am the Tamil Nadu Agriculture Schemes Assistant, designed specifically to help you with agricultural schemes, subsidies, and welfare benefits in Tamil Nadu (such as seed distribution, crop insurance, and mechanisation grants). I'm unable to answer general programming or non-agricultural questions. How can I assist you with Tamil Nadu agriculture schemes today? 🌾",
+        "sources": []
+      }
+    ],
+    "updated": "2026-10-18T21:45:08"
+  }
+}
